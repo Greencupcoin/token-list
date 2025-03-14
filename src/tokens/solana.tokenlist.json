@@ -4,10 +4,10 @@
   "symbol": "GCUP",
   "name": "Green Cup",
   "decimals": 9,
-  "logoURI": "https://gcup.io/logo.png",
-  "tags": ["game", "sports", "crypto", "golf"],
+  "logoURI": "https://www.dropbox.com/scl/fi/2gpoqowklai6u6y81enzr/gcup.png?rlkey=vcsv9w7qliynq8vuq6vov7or5&st=6x20bwb8&raw=1",
+  "tags": ["golf", "sports", "crypto", "community"],
   "extensions": {
     "website": "https://gcup.io",
-    "twitter": "https://twitter.com/gcupcoin"
+    "twitter": "https://x.com/gcupcoin"
   }
 }
